@@ -8,7 +8,7 @@ namespace Digital_Inovation_One.Desafios_Iniciais
 {
     public class MaiorPosicao
     {
-        static void Main(string[] args)
+        static void Maior(string[] args)
         {
             //TODO: Complete os espaços em branco com uma possível solução para o desafio
             int n;

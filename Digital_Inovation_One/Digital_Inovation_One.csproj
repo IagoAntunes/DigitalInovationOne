@@ -43,15 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstraindo um Jogo de RPG Usando Orientação a Objetos com CSharp\Entities\Hero.cs" />
+    <Compile Include="Abstraindo um Jogo de RPG Usando Orientação a Objetos com CSharp\Entities\Wizard.cs" />
+    <Compile Include="Abstraindo um Jogo de RPG Usando Orientação a Objetos com CSharp\Program.cs" />
     <Compile Include="Desafios Iniciais\Esfera.cs" />
     <Compile Include="Desafios Iniciais\MaiorPosicao.cs" />
     <Compile Include="Desafios Iniciais\Media2.cs" />
     <Compile Include="Desafios Iniciais\Polignos.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
