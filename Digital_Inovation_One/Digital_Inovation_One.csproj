@@ -53,6 +53,7 @@
     <Compile Include="Desafios Intermediarios CSharp\CoxinhaBueno.cs" />
     <Compile Include="Desafios Intermediarios CSharp\Media3.cs" />
     <Compile Include="Desafios Intermediarios CSharp\Multiplicacao.cs" />
+    <Compile Include="Desafios Intermediarios CSharp\PinkCerebro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
