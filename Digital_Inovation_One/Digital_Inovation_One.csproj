@@ -50,6 +50,7 @@
     <Compile Include="Desafios Iniciais\MaiorPosicao.cs" />
     <Compile Include="Desafios Iniciais\Media2.cs" />
     <Compile Include="Desafios Iniciais\Polignos.cs" />
+    <Compile Include="Desafios Intermediarios CSharp\Multiplicacao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

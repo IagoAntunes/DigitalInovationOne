@@ -9,7 +9,7 @@ namespace Digital_Inovation_One.Abstraindo_um_Jogo_de_RPG_Usando_Orientação_a_
 {
     public class Program
     {
-        static void Main()
+        static void Rpg()
         {
             int opc =0;
             List<Hero> ListaHerois = new List<Hero>();
